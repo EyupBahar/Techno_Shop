@@ -17,6 +17,6 @@ export const sellComp = () => {
 };
 export const sellWatch = () => {
   return {
-    type: SELL_LAPTOP,
+    type: SELL_WATCH,
   };
 };

@@ -1,4 +1,4 @@
-import { createStore } from "redux/store";
+import { createStore, combineReducers } from "redux";
 import laptopReducer from "./reducers/laptopReducer";
 
 const rootReducer = combineReducers({

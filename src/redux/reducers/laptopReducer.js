@@ -4,14 +4,17 @@ const initialState = {
   numberOfLaptops: 100,
 };
 
-const laptopReducer = (state = initialState, action) => {
+const laptopReducers = (state = initialState, action) => {
   switch (action.type) {
     case SELL_LAPTOP:
       return {
-        ...states,
+        ...state,
         numberOfLaptops: state.numberOfLaptops - 1,
       };
+
     default:
       return state;
   }
 };
+
+export default laptopReducers;
