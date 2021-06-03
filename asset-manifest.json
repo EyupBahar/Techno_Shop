@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Techno_Shop/static/css/main.3e28a34d.chunk.css",
+    "main.js": "/Techno_Shop/static/js/main.af7d5b50.chunk.js",
+    "main.js.map": "/Techno_Shop/static/js/main.af7d5b50.chunk.js.map",
+    "runtime-main.js": "/Techno_Shop/static/js/runtime-main.c8b2f51f.js",
+    "runtime-main.js.map": "/Techno_Shop/static/js/runtime-main.c8b2f51f.js.map",
+    "static/js/2.f92054a5.chunk.js": "/Techno_Shop/static/js/2.f92054a5.chunk.js",
+    "static/js/2.f92054a5.chunk.js.map": "/Techno_Shop/static/js/2.f92054a5.chunk.js.map",
+    "index.html": "/Techno_Shop/index.html",
+    "static/css/main.3e28a34d.chunk.css.map": "/Techno_Shop/static/css/main.3e28a34d.chunk.css.map",
+    "static/js/2.f92054a5.chunk.js.LICENSE.txt": "/Techno_Shop/static/js/2.f92054a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8b2f51f.js",
+    "static/js/2.f92054a5.chunk.js",
+    "static/css/main.3e28a34d.chunk.css",
+    "static/js/main.af7d5b50.chunk.js"
+  ]
+}
